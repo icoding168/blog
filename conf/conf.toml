@@ -34,7 +34,7 @@ db_port = 3306
 # 数据库账号
 db_user = "root"
 # 数据库密码
-db_passwd = "root"
+db_passwd = "123456"
 # 数据库名称
 db_name = "blog"
 # 数据库参数
